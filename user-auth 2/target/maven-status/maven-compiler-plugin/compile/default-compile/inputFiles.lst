@@ -1,0 +1,9 @@
+/Users/jonathanroth/Downloads/user-auth 2/src/main/java/com/example/user_auth/UserAuthApplication.java
+/Users/jonathanroth/Downloads/user-auth 2/src/main/java/com/example/user_auth/config/SecurityConfig.java
+/Users/jonathanroth/Downloads/user-auth 2/src/main/java/com/example/user_auth/controller/AuthController.java
+/Users/jonathanroth/Downloads/user-auth 2/src/main/java/com/example/user_auth/dto/LoginRequest.java
+/Users/jonathanroth/Downloads/user-auth 2/src/main/java/com/example/user_auth/dto/RegisterRequest.java
+/Users/jonathanroth/Downloads/user-auth 2/src/main/java/com/example/user_auth/model/User.java
+/Users/jonathanroth/Downloads/user-auth 2/src/main/java/com/example/user_auth/repository/UserRepository.java
+/Users/jonathanroth/Downloads/user-auth 2/src/main/java/com/example/user_auth/security/JwtService.java
+/Users/jonathanroth/Downloads/user-auth 2/src/main/java/com/example/user_auth/service/UserService.java
